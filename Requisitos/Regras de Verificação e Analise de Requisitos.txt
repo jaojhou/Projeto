@@ -3,7 +3,14 @@ para que não exista ambiquidades. Cada requisito tera sua indentificação
 RFF = requisitos funcionais relacionados a interface
 RFB = requisitos funcionais relacionados ao back-end
 RN = requisitos nao funcionais
+
 Cada requisito sera definico com o nível de importancia
 S = Super importante
 I = importante 
 P = pouco importante
+
+Palavras que gerão incertezas devem ser evitadas como:
+talvez, geralmente, agradável, simples, rapido, usuável.
+
+Todo requisito deve ser atomico, ou seja caso o requisito possa ser possível 
+ser dividido em dois requisitos ele deve ser dividido.
