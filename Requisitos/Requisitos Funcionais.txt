@@ -1,8 +1,15 @@
 Requisitos funcionais de interface:
-RFF1:O software deve ter uma pagina de apresentacao com menus para acessar as funções
-RFF2:O software deve ter uma pagina para cadastrar animais abandonados
-RFF3:O software deve ter uma pagina para listar todos animais prontos para adocão
-RFF4:O software deve ter uma pagina para a instituição encontrar os animais abandonados
+	 O software deve ter:
+RFF1:Pagina de apresentacao com botoes adotar,cadastrar animal abandonado e instituição.
+RFF2:Pagina de cadastro de instituição.
+RFF3:Pagina de cadastro de animais abandonados.
+RFF4:Pagina de cadastro de animais prontos para adocão.
+RFF5:Pagina para listar animais para adoção.
+RFF6:Pagina para listar animais abandonados.
+RFF7:Opção de deletar animais abandonados.
+RFF8:Opção de deletar animais prontos para adocão.
+RFF9:Opção de alterar animais abandonados.
+RFF10:Opção de alteraranimais prontos para adocão.
 
 Requisitos funcionais de back end
 RFB1:O sofware deve ter um banco de dados
